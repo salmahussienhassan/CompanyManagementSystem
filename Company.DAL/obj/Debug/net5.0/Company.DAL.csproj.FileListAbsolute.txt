@@ -1,0 +1,13 @@
+C:\Users\Salma Hussein\source\repos\MVC Project\Company.DAL\bin\Debug\net5.0\Company.DAL.deps.json
+C:\Users\Salma Hussein\source\repos\MVC Project\Company.DAL\bin\Debug\net5.0\Company.DAL.dll
+C:\Users\Salma Hussein\source\repos\MVC Project\Company.DAL\bin\Debug\net5.0\Company.DAL.pdb
+C:\Users\Salma Hussein\source\repos\MVC Project\Company.DAL\obj\Debug\net5.0\Company.DAL.csproj.AssemblyReference.cache
+C:\Users\Salma Hussein\source\repos\MVC Project\Company.DAL\obj\Debug\net5.0\Company.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salma Hussein\source\repos\MVC Project\Company.DAL\obj\Debug\net5.0\Company.DAL.AssemblyInfoInputs.cache
+C:\Users\Salma Hussein\source\repos\MVC Project\Company.DAL\obj\Debug\net5.0\Company.DAL.AssemblyInfo.cs
+C:\Users\Salma Hussein\source\repos\MVC Project\Company.DAL\obj\Debug\net5.0\Company.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Salma Hussein\source\repos\MVC Project\Company.DAL\obj\Debug\net5.0\Company.DAL.sourcelink.json
+C:\Users\Salma Hussein\source\repos\MVC Project\Company.DAL\obj\Debug\net5.0\Company.DAL.dll
+C:\Users\Salma Hussein\source\repos\MVC Project\Company.DAL\obj\Debug\net5.0\refint\Company.DAL.dll
+C:\Users\Salma Hussein\source\repos\MVC Project\Company.DAL\obj\Debug\net5.0\Company.DAL.pdb
+C:\Users\Salma Hussein\source\repos\MVC Project\Company.DAL\obj\Debug\net5.0\ref\Company.DAL.dll

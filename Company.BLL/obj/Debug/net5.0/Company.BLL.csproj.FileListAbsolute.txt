@@ -1,0 +1,16 @@
+C:\Users\Salma Hussein\source\repos\MVC Project\Company.BLL\bin\Debug\net5.0\Company.BLL.deps.json
+C:\Users\Salma Hussein\source\repos\MVC Project\Company.BLL\bin\Debug\net5.0\Company.BLL.dll
+C:\Users\Salma Hussein\source\repos\MVC Project\Company.BLL\bin\Debug\net5.0\Company.BLL.pdb
+C:\Users\Salma Hussein\source\repos\MVC Project\Company.BLL\bin\Debug\net5.0\Company.DAL.dll
+C:\Users\Salma Hussein\source\repos\MVC Project\Company.BLL\bin\Debug\net5.0\Company.DAL.pdb
+C:\Users\Salma Hussein\source\repos\MVC Project\Company.BLL\obj\Debug\net5.0\Company.BLL.csproj.AssemblyReference.cache
+C:\Users\Salma Hussein\source\repos\MVC Project\Company.BLL\obj\Debug\net5.0\Company.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salma Hussein\source\repos\MVC Project\Company.BLL\obj\Debug\net5.0\Company.BLL.AssemblyInfoInputs.cache
+C:\Users\Salma Hussein\source\repos\MVC Project\Company.BLL\obj\Debug\net5.0\Company.BLL.AssemblyInfo.cs
+C:\Users\Salma Hussein\source\repos\MVC Project\Company.BLL\obj\Debug\net5.0\Company.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Salma Hussein\source\repos\MVC Project\Company.BLL\obj\Debug\net5.0\Company.BLL.sourcelink.json
+C:\Users\Salma Hussein\source\repos\MVC Project\Company.BLL\obj\Debug\net5.0\Company.BLL.csproj.CopyComplete
+C:\Users\Salma Hussein\source\repos\MVC Project\Company.BLL\obj\Debug\net5.0\Company.BLL.dll
+C:\Users\Salma Hussein\source\repos\MVC Project\Company.BLL\obj\Debug\net5.0\refint\Company.BLL.dll
+C:\Users\Salma Hussein\source\repos\MVC Project\Company.BLL\obj\Debug\net5.0\Company.BLL.pdb
+C:\Users\Salma Hussein\source\repos\MVC Project\Company.BLL\obj\Debug\net5.0\ref\Company.BLL.dll
